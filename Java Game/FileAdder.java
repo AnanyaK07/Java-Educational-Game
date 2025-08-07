@@ -1,5 +1,3 @@
-/// Both Ananya Kotla and Ella Yao
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
