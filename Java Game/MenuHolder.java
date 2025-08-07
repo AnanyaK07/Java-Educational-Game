@@ -1,5 +1,3 @@
-/// Ananya Kotla Wrote the Whole File
-
 import java.awt.CardLayout;
 import javax.swing.JPanel;
 import javax.swing.JFrame;
