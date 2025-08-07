@@ -1,4 +1,3 @@
-// Ananya Kotla & Ella Yao
 // SurgeonSimulator.java Game Project
 /* This game is trying to teach the player the basics of making incisions 
  *  and identifying the organs after dissecting, which is part of a surgeon's job. 
