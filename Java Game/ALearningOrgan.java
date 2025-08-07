@@ -1,5 +1,3 @@
-/// Ella Yao Wrote the Whole File
-
 import java.awt.Graphics;
 import java.awt.Color;
 import java.awt.Font;
@@ -345,3 +343,4 @@ class ViewButtonHandler implements ActionListener /// Ella Yao
 		}
 	}	
 }
+
