@@ -1,5 +1,3 @@
-/// Ananya Kotla Wrote the Whole File.
-
 import java.awt.Color;
 import java.awt.Font;
 
