@@ -1,5 +1,3 @@
-/// Ananya Kotla & Ella Yao Wrote the File.
-
 import java.awt.Graphics;
 import java.awt.Color;
 import java.awt.Font;
