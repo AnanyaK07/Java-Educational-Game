@@ -1,0 +1,335 @@
+Intro:
+
+Gastrointestinal (GI) tract:
+A system of organs within the human body responsible for the digestion 
+and absorption of food and the elimination of waste products. 
+It begins at the mouth, where food enters the body, and ends at the anus, 
+where waste products are expelled.
+
+Mechanical Digestion:
+The process of physically breaking down food into 
+smaller particles to increase its surface area for chemical digestion 
+(ex: chewing food).
+
+Chemical Digestion: 
+The process by which large food molecules are 
+broken down into smaller, simpler molecules by enzymes and other
+digestive chemicals. (ex: stomach acid)
+
+
+Mouth:
+
+System: 
+Digestive
+
+Structure: 
+The first part of the digestive tract; where food intake happens. 
+It connects to the esophagus. 
+
+Function: 
+Food gets mechanically digested by the teeth and chemically 
+digested by salivary amylase in the saliva.
+
+Extra Info:
+Saliva: 
+A fluid produced by glands in the mouth to digest and help digest
+food. Contains salivary amylase.
+
+Salivary Amylase: 
+An enzyme produced by the salivary glands in the mouth. 
+When food enters the mouth, salivary glands release saliva, 
+which contains salivary amylase. Salivary amylase begins the process of 
+carbohydrate digestion by breaking down complex carbohydrates such as 
+starches into simpler sugars.
+
+
+Pharynx:
+
+System: 
+Digestive and Respiratory
+
+Structure: 
+A muscular tube that connects the nasal cavity and mouth to 
+the esophagus and larynx. 
+
+Function: 
+Commonly known as the throat, it plays a vital role in both 
+the respiratory and digestive systems.
+
+
+Esophagus: 
+
+System: 
+Digestive
+
+Function: 
+Carries food from the mouth to the stomach using wave-like 
+contractions called peristalsis.
+
+Extra Info:
+Lower Esophageal Sphincter (LES): 
+A sphincter muscle (ring shaped muscle that 
+relaxes or tightens to open or close a passage or opening in the body) 
+that is used to prevent chyme from going back up the esophagus. 
+If it does go up, heart burns will occur.
+
+Heartburn/Acid Reflux: 
+When the LES becomes weakened or relaxes 
+inappropriately, stomach acid and acidic chyme can go back up 
+the esophagus causing pain to the chest area. 
+
+
+Stomach:
+
+System: 
+Digestive
+
+Structure: 
+This is after the esophagus and Esophageal Sphincter
+
+Function: 
+Mucus lining protects the stomach from the acidic environment.
+Secretes hydrogen chloride or (HCI) so that the pH level of the stomach 
+can be maintained at 2.
+
+Mechanical digestion: 
+Peristalsis move food further down the digestive 
+tract, is used to break down the food into smaller pieces.
+
+Chemical digestion: 
+Due to the HCI (stomach acids) pepsinogen converts 
+to its active form of pepsin which breaks down proteins. 
+Chyme is produced when stomach acid mixes with the broken down food.
+
+Extra Info:
+Peristalsis: 
+The wave-like movement in the GI of smooth muscles which 
+move food further down the digestive tract.
+
+Chyme: 
+An acidic fluid made up of gastric juices and partially digested 
+food that travels from the stomach to the small intestine.
+
+Pyloric Sphincter: 
+A sphincter muscle that allows chyme to exit the 
+stomach so that it can enter the small intestine.
+
+Peptic ulcer: 
+A sore that may develop in your stomach, esophagus, 
+or small intestine. Results from damaging of the lining from stomach 
+acid, or excessive drinking, smoking, etc. 
+
+
+Pancreas:
+
+System: 
+Digestive & Endocrine
+
+Function: 
+Creates pancreatic enzymes which break down ALL biomolecules 
+through chemical digestion in the small instestine. Creates sodium 
+bicarbonate to neutralize stomach acid. Also creates hormones 
+insulin and glucagon to regulate blood sugar levels.
+
+Extra Info:
+Insulin: 
+It works to lower the blood sugar levels by facilitating the 
+storage of extra glucose from the blood into the liver and into the
+muscle tissues in the form of glycogen.
+
+Glucagon: 
+One of the primary functions of glucagon is to raise blood glucose 
+levels by stimulating the liver to release stored glucose into the bloodstream. 
+
+Sodium Bicarbonate: 
+Created in the pancreas. 
+Part of the pancreatic juice that enters the small intestine. The
+main function is to neutralize stomach acid in the smaller intestine. 
+
+
+Liver:
+
+System: 
+Digestive & Endocrine
+
+Structure: 
+Looks like a pouch.
+
+Function: 
+Produces bile, which is stored in the gallbladder. Also helps 
+regulate blood sugar levels by storing excess glucose as glycogen into 
+the bloodstream when necessary.
+
+Extra Info:
+Bile: 
+Fluid produced by the liver (and stored in the gallbladder). 
+It breaks down lipids in the small intestine.
+
+Glycogen: 
+Stored form of glucose and used for energy.
+
+
+Gallbladder:
+
+System: 
+Digestive
+
+Function: 
+It stores bile, which was produced by the liver.
+Releases it into the duodenum when needed.
+
+Extra Info:
+Duodenum: 
+First part of the small intestine. 
+Further digests the chyme so it can be easily absorbed in the small 
+intestine. Does digest some nutrients and water for the body to use. 
+
+
+Small Intestine:
+
+System:
+Digestive
+
+Structure: 
+Noodle-like structure that wraps around itself. 
+
+Function: 
+Where the most digestion occurs. Gets sodium bicarbonate and pancreatic 
+enzymes from the pancreas and bile from the gallbladder/liver.
+
+Mechanical digestion: 
+Bile breaks down lipid, peristalsis breaks down foods
+
+Chemical digestions: 
+The enzymes received from the pancreas breaks 
+down the carbs, lipids, and proteins. The villi absorbs nutrients by 
+increasing the surface area of the small intestine.
+
+Extra Info:
+Villi/Villus: 
+Tiny hair-like structures that line the inside of the small 
+intestine. Increases the surface area of the small intestine so that 
+nutrients can be absorbed. 
+
+
+Large Intestine:
+
+System: 
+Digestive 
+
+Structure: 
+Looks like a long line of sausages.
+
+Function: 
+Also known as the colon, it's reponsible for reabsorbing water 
+into the body from the remaining undigested food. Also houses a large 
+population of beneficial bacteria that aid in digestion and produce vitamins B & K.
+
+Extra Info:
+Diarrhea: 
+A common condition characterized by frequent, loose, or 
+watery bowel movements. It occurs when the intestines fail to properly 
+absorb water, resulting in an increased volume of stool and a more 
+liquid consistency.
+
+Constapation: 
+When the large intestine absorbs too much water from feces. 
+This can cause fewer bowel movements than usual, and they can 
+be more difficult and painful.
+
+
+Spleen:
+
+System: 
+Immune & Circulatory
+
+Function: 
+The spleen acts as a blood filter, removing abnormal or damaged 
+red blood cells and platelets from circulation. It also creates white
+blood cells.
+
+
+Cecum:
+
+System: 
+Digestive
+
+Structure: 
+In herbivores (pigs), the cecum is a structure between 
+the large and small intestine. In humans, it is the first part of the 
+large intestine from which the appendix arises to the side. 
+
+Function: 
+In herbivores (pigs), the bacteria present produce cellulase, an enzyme, 
+which breaks down cellulose. Humans do not have this bacteria in their 
+cecum, so they cannot break down cellulose. The appendix is used to make
+antibodies which is used for the immune system.
+
+Extra Info:
+Appendicitis: 
+A condition characterized by inflammation of the appendix. 
+Appendicitis is a medical emergency that requires prompt diagnosis and t
+reatment to prevent complications such as a ruptured appendix, which can 
+lead to serious infection and even death if left untreated.
+
+Rectum: 
+A muscular organ, located at the end of the large intestine, 
+just before the anus. It serves as the final portion of the digestive 
+tract, where feces are stored before they are expelled from the body.
+
+
+Anus:
+
+System: 
+Digestive
+
+Function: 
+The opening at the end of the digestive tract through which 
+feces are expelled from the body.
+
+Extra Info:
+Feces: 
+The waste material that is eliminated from the body through the 
+rectum and anus. It consists of undigested food residues, water, 
+bacteria, and other metabolic waste products.
+
+
+Umbilical Vein:
+
+System: 
+Circulatory
+
+Function: 
+A blood vessel that carries oxygenated blood from the 
+placenta to the fetus during pregnancy. It is one of the three main 
+blood vessels contained within the umbilical cord, which connects the 
+developing fetus to the placenta in the womb.
+
+
+Urogenital Opening:
+
+System: 
+Excretory & Reproductive
+
+Function: 
+External opening of the urogenital system in vertebrates, 
+including humans. In males it serves as an exit point for urine and semen.
+In women it serves as an exit point for urine and menustrual fluid.
+
+
+Urogenital Papilla:
+
+System: 
+Excretory & Reproductive
+
+Structure: 
+It is a small, fleshy protrusion located near the anus and ventral 
+to the tail. 
+
+Function: 
+A structure found in some vertebrates, particularly in female mammals. 
+Plays a role in reproductive and urinary processes, 
+facilitating mating, childbirth, and/or urination, depending on the 
+species' reproductive and anatomical characteristics. In female pigs, 
+it releases a gas called pheromones, which signals to the male pigs that
+they are ready to mate. 
