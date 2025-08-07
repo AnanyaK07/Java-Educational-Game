@@ -1,5 +1,3 @@
-/// Ella Yao Wrote the Whole File
-
 import java.awt.GridLayout;
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
